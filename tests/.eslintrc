@@ -1,0 +1,19 @@
+{
+  "plugins": [
+    "mocha", "chai-expect"
+  ],
+  "env": {
+    "mocha": true
+  },
+  "globals": {
+    "mockery": false,
+    "expect": false,
+    "it": false,
+    "stub": false,
+    "createSandbox": false
+  },
+  "rules": {
+    "chai-expect/missing-assertion": 2,
+    "chai-expect/terminating-properties": 1
+  }
+}
