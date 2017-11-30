@@ -1,7 +1,7 @@
 {
   "name": "csv-debt-calculator",
   "version": "1.0.0",
-  "description": "Simple debt calculator.",
+  "description": "Medic Mobile take-home test - simple debt calculator.",
   "scripts": {
     "start": "node ./src/index.js",
     "debug": "node --inspect-brk ./src/index.js",
@@ -19,7 +19,11 @@
     "nyc",
     "coverage",
     "TDD",
-    "BDD"
+    "BDD",
+    "medic mobile",
+    "csv",
+    "calculator",
+    "test"
   ],
   "author": "Adam Faryna <adamfaryna@appdy.net>",
   "license": "BSD-2-Clause",
