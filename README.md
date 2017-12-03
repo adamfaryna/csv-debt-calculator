@@ -1,4 +1,4 @@
-# Medic Mobile take-home test implementation (https://medicmobile.org)
+# Medic Mobile take-home test implementation (medicmobile.org)
 
 This is simple implementation of [Medic Mobile screening test](https://gist.github.com/SCdF/b65b3656dd16a573493709e26851a3f8).
 
